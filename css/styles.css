@@ -1,0 +1,14 @@
+.firstclass {
+  width: 40%;
+  float: right;
+  background-color: coral;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+img {
+  width: 450px;
+}
